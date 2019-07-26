@@ -1,4 +1,4 @@
-# Tic-Tac-Toe
+# GAME
 
 > Ruby program - LS
 
